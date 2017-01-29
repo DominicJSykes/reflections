@@ -4,3 +4,17 @@ all the metadata git requries to function.
 The staging area allows flexibility in what shall be 
 updated in each commit, allowing the best practice of 
 one logical change per commit to be adhered to.
+
+Changes can be staggered using the staging area, with
+each being uploaded to contain one logical change.
+
+Branches enable new changes or features to be tried 
+without jepardising the whole program. Or for variations
+to be created with ease.
+
+It portrays where branches have happened and which 
+commits are reachable from each branch.
+
+Merging two branches creates a commit with changes from both branches, including adds and
+removes. The diagram reflects this by linking
+changes from both branches to the new commit.
