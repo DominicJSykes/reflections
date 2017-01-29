@@ -1,0 +1,30 @@
+Pinpoints changes from when the file worked, one of which 
+must lead to the bug.
+
+Allows you to try out ideas, move through versions while
+allowing restoration of previous versions to address
+compatibility. Plus allows easier tracking of changes in
+group projects.
+
+Pros - versions make sense and offer a functional change
+and compile. Easier to read history.
+Cons - makes it susceptible to user error.
+
+Different functions of documents, for the most part google 
+docs will not depend on the other. Code on the other hand
+often pulls in functions from other files.
+
+Git log provides reference ids and messages that give 
+to each file.
+
+Git diff points out differences in files, what was added,
+what was taken away.
+
+You can make changes safe in the knowledge that it is easy 
+to return to the earlier version if anything breaks. Whole
+different strategies and versions can be tried without 
+risk.
+
+Upload previous projects should I go back to them, as 
+repositories, and for current projects for reasons above.
+
