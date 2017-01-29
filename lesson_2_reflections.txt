@@ -1,0 +1,6 @@
+The git folder gets created which is necessary to store
+all the metadata git requries to function.
+
+The staging area allows flexibility in what shall be 
+updated in each commit, allowing the best practice of 
+one logical change per commit to be adhered to.
