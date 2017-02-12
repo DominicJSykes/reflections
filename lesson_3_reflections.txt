@@ -1,0 +1,4 @@
+A remote repository is useful to both have an accessible
+backup available from any computer with an internet 
+connection, as well as enabling collaborative work and 
+sharing to be far easier.
