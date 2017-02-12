@@ -27,3 +27,4 @@ more predictable. However manual enables maximum
 control and flexibility and may help with not 
 duplicating code in different places of the file, if
 code is moved.
+
