@@ -1,5 +1,5 @@
 The git folder gets created which is necessary to store
-all the metadata git requries to function.
+all the metadata git requires to function.
 
 The staging area allows flexibility in what shall be 
 updated in each commit, allowing the best practice of 
@@ -9,12 +9,21 @@ Changes can be staggered using the staging area, with
 each being uploaded to contain one logical change.
 
 Branches enable new changes or features to be tried 
-without jepardising the whole program. Or for variations
+without jeopardising the whole program. Or for variations
 to be created with ease.
 
 It portrays where branches have happened and which 
 commits are reachable from each branch.
 
-Merging two branches creates a commit with changes from both branches, including adds and
+Merging two branches creates a commit with changes from 
+both branches, including adds and
 removes. The diagram reflects this by linking
 changes from both branches to the new commit.
+
+Automatic merges through Git enables them to be done 
+quicker as well as in a more structured way, vs them
+being down manually, meaning troubleshooting may be
+more predictable. However manual enables maximum 
+control and flexibility and may help with not 
+duplicating code in different places of the file, if
+code is moved.
