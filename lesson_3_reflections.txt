@@ -6,3 +6,10 @@ sharing to be far easier.
 Pulling the repository manually means that changes made 
 by others on the project won't be intergrated with your
 work before it's ready, avoiding conflicts.
+
+A branch is a new version of the existing project, enabling
+changes to be made without affecting the existing branches.
+A clone is a copy of the repository linked by a remote to 
+the original. Changes in the clone won't affect the original
+but can be pushed to it. A fork is a clone that takes place
+on GitHub, normally cloning to anothers profile.
