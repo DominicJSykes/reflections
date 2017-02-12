@@ -2,3 +2,7 @@ A remote repository is useful to both have an accessible
 backup available from any computer with an internet 
 connection, as well as enabling collaborative work and 
 sharing to be far easier.
+
+Pulling the repository manually means that changes made 
+by others on the project won't be intergrated with your
+work before it's ready, avoiding conflicts.
